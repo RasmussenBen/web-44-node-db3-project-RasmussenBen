@@ -1,5 +1,5 @@
 # Node DB3 Project Starter Code
-
+codegrade
 ## Task 1: Project Setup
 
 Your instructor should have communicated which method to use for this project during the Guided Project and in your cohort's Slack channel. If you are still unsure, reach out to Lambda Staff.
